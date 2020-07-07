@@ -1,0 +1,259 @@
+
+body{
+
+background-color:#F9F9F9;
+
+}
+
+
+
+.product1{
+
+    width: 250px;
+    height: 400px;
+    background-color:white; 
+    margin-top: 50px;
+   /* background-color: violet; */
+
+   
+
+
+
+}
+
+
+
+/* .product2{
+
+    width: 300px;
+    height: 500px;
+    background-color:red;
+    margin-top: 50px;
+    background-image: url(img/sleepbag3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    
+    
+
+
+
+} */
+
+
+
+.product2{
+
+    width: 250px;
+    height: 400px;
+    /* background-color:red; */
+    background-color: white;
+    margin-top: 50px;
+    
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    
+    
+
+
+
+} 
+
+
+
+
+
+
+.product3{
+
+    width: 250x;
+    height: 400px;
+    /* background-color:black; */
+    background-color: white;
+    margin-top: 50px;
+    
+
+
+}
+
+
+.product4{
+
+    width: 250;
+    height: 400px;
+    /* background-color:green; */
+    background-color: white;
+    margin-top: 50px;
+
+
+
+
+}
+
+.product5{
+
+    width: 250px;
+    height: 400px; 
+    
+    background-image: url(img/poster1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.button1{
+
+    width: 150px;
+    height: 50px;
+    margin-left: 60px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-style: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    
+    background-color:black ;
+
+
+}
+
+
+.productn{
+
+    color:gray;
+    font-family: 'Montserrat', sans-serif;
+    
+    text-align: left;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 16px;
+
+
+}
+
+
+.oldprice{
+
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    color: grey;
+    text-decoration: line-through;
+    
+
+}
+
+.price{
+
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    color: #FFEC10;
+
+
+}
+
+.offers{
+
+
+    text-align: center;
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    margin-top: 50px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.catalog1{
+
+    width: 320px;
+    height: 200px;
+    background-color: indigo;
+    /* margin-left: 10px; */
+    /* margin-top: 50px; */
+     margin-bottom: 50px; 
+    background-image: url(img/MAN.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+.catalog2{
+
+    width: 320px;
+    height: 200px;
+    background-color: yellow;
+    /* margin-left: 10px; */
+    /* margin-top: 50px; */
+     margin-bottom: 50px; 
+    background-image: url(img/GIRL.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+.catalog3{
+
+    width: 320px;
+    height: 200px;
+    background-color:red;
+    /* margin-left: 10px; */
+    /* margin-top: 50px; */
+     margin-bottom: 50px; 
+    background-image: url(img/AC1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
+}
+
+.catalog1 h1{
+
+    color:white;
+    font-family: 'Catamaran', sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+    font-weight: 700px;
+    margin-top: 150px;
+    font-size: 30px;
+}
+
+.catalog2 h1{
+
+    color:white;
+    font-family: 'Catamaran', sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+    font-weight: 700px;
+    margin-top: 150px;
+    font-size: 30px;
+}
+
+
+.catalog3 h1{
+
+    color:white;
+    font-family: 'Catamaran', sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+    font-weight: 700px;
+    margin-top: 150px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.footer{
+
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
