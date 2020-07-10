@@ -219,7 +219,7 @@ background-color:#F9F9F9;
 .catalog1 h1{
 
     color:white;
-    font-family: 'Catamaran', sans-serif;
+    font-family: 'Syncopate', sans-serif;
     letter-spacing: 5px;
     text-align: center;
     font-weight: 700px;
@@ -230,7 +230,7 @@ background-color:#F9F9F9;
 .catalog2 h1{
 
     color:white;
-    font-family: 'Catamaran', sans-serif;
+    font-family: 'Syncopate', sans-serif;
     letter-spacing: 5px;
     text-align: center;
     font-weight: 700px;
@@ -242,7 +242,7 @@ background-color:#F9F9F9;
 .catalog3 h1{
 
     color:white;
-    font-family: 'Catamaran', sans-serif;
+    font-family: 'Syncopate', sans-serif;
     letter-spacing: 5px;
     text-align: center;
     font-weight: 700px;
@@ -254,6 +254,124 @@ background-color:#F9F9F9;
 .footer{
 
     width: 100%;
-    height: 200px;
-    background-color: black;
+    height: 400px;
+    background-color:black;
+    margin-top: 50px;
 }
+
+
+.Copyright{
+
+    margin:auto;
+    margin-top: 50px;
+    color: white;
+}
+
+
+
+.footer-newsletter input{
+
+    /* width: 100px;
+    background-color: limegreen; */
+}
+
+.sumbit{
+
+
+    background-color:#f3dd18;
+    border: none;
+   color: white;
+   margin-top: 10px;
+   height: 40px;
+   width: 190px;
+   font-size: 20px;
+   text-transform: capitalize;
+}
+
+.footer-info{
+
+    color: white;
+    margin-top: 50px;
+}
+
+
+.footer-links{
+
+    color: white;
+    margin-top: 50px;
+}
+
+.footer-contact{
+
+    color: white;
+    margin-top: 50px;
+}
+
+
+.footer-newsletter{
+
+    color: white;
+    margin-top: 50px;
+}
+
+.email{
+
+    height: 40px;
+    width: 190px;
+
+}
+
+.socialmedia{
+
+color: white;
+font-size: 25px; 
+margin-left: 20px;
+
+margin:auto;
+margin-left: 10px;
+
+
+}
+
+#dropdownMenuButton{
+
+    background-color:black;
+    width: 110px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+a {
+
+    color:white;
+    font-size: 20px;
+    
+}
+
+ul li{
+
+    list-style: none;
+}
+
+
+
+
+
+.productbag1{
+
+    width: 100px;
+    height: 700px;
+    background-color:white; 
+    margin-top: 50px;
+    background-color: white;
+    
+
+
+}
+
+
+.pagination{
+
+    margin:auto;
+}
+
